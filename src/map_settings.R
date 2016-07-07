@@ -3,7 +3,7 @@
 
 ## what should each map be named?
 
-    map_title = "Saint Mary's School"
+    map_title = "Generic Map Title"
 
 ## map settings
  border_color = "#000000"
